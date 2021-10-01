@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<setlist>
+    <heading>THE SETLIST</heading>
+    <song>
+        <artist>The Vamps</artist>
+        <title>All Night</title>
+        <genre>EDM</genre>
+        <year>2016</year>
+    </song>
+    <song>
+        <artist>Illenium</artist>
+        <title>Heavenly Side</title>
+        <genre>EDM</genre>
+        <year>2021</year>
+    </song>
+    <song>
+        <artist>Martin Garrix</artist>
+        <title>In the Name of Love</title>
+        <genre>EDM</genre>
+        <year>2016</year>
+    </song>
+    <song>
+        <artist>Lil Uzi Vert</artist>
+        <title>Do What I Want</title>
+        <genre>Rap</genre>
+        <year>2016</year>
+    </song>
+    <song>
+        <artist>Future</artist>
+        <title>March Madness</title>
+        <genre>Rap</genre>
+        <year>2015</year>
+    </song>
+    <song>
+        <artist>Travis Scott</artist>
+        <title>NO BYSTANDERS</title>
+        <genre>Rap</genre>
+        <year>2018</year>
+    </song>
+    <song>
+        <artist>Post Malone</artist>
+        <title>White Iverson</title>
+        <genre>Rap</genre>
+        <year>2015</year>
+    </song>
+    <song>
+        <artist>Rush</artist>
+        <title>Marathon</title>
+        <genre>Rock</genre>
+        <year>1985</year>
+    </song>
+    <song>
+        <artist>Rush</artist>
+        <title>The Garden</title>
+        <genre>Rock</genre>
+        <year>2012</year>
+    </song>
+    <song>
+        <artist>Rush</artist>
+        <title>The Analog Kid</title>
+        <genre>Rock</genre>
+        <year>1982</year>
+    </song>
+</setlist>

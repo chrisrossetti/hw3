@@ -1,0 +1,26 @@
+setlist {
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color: #e0ffff;
+}
+
+heading {
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+song {
+    display: block;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+title {
+    font-size: 28px;
+    font-weight: bold;
+}
